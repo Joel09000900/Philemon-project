@@ -1,0 +1,32 @@
+.Container {
+  width: 100%;
+  height: 1cm;
+  gap: 0.8cm;
+  margin-top: 7.5cm;
+}
+.Container .Nom {
+  width: 35%;
+  border-radius: 60px;
+}
+.Container .Prenom {
+  width: 35%;
+  border-radius: 60px;
+}
+.Container .MotDePasse {
+  width: 35%;
+  border-radius: 60px;
+}
+.Container .Submit {
+  width: 10%;
+  border-radius: 60px;
+}
+.Container .CompteGoogle {
+  width: 20%;
+  border-radius: 60px;
+}
+
+.Background {
+  background-image: url("../Asset/Backimage.jpg");
+  background-size: cover;
+  height: 100vh;
+}/*# sourceMappingURL=Inscription.css.map */
